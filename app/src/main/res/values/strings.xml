@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Lakástextil Webshop</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="signup">Nincs fiókod? Regisztrálj itt!</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Cím</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírása.</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+
+
+    <string-array name="phone_labels">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Mikroszálas Függöny</item>
+        <item>Pingvines Ágynemühuzat</item>
+        <item>Allergiamentes Párna</item>
+        <item>Poliészter Paplan</item>
+        <item>Frottír Gumis Lepedő</item>
+        <item>Jacquard Függöny</item>
+        <item>Világítótorony Dekorációs Párna</item>
+        <item>Ágyneműhuzat Hangjegyekkel</item>
+        <item>Inkontinencia matrac rátét</item>
+        <item>Cicás Lábtörlő</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Függöny puha mikroszálas tapintással.</item>
+        <item>Garnitúra strand motívummal. Vicces részletet alkot a hálószobában ez a pingvin motívummal díszített garnitúra.</item>
+        <item>Allergiamentes párna az optimális kényelemért és a pihentető éjszakákért. Ez az allergiamentes párna jó éjszakai alvást kínál azok számára, akik allergiásak a házi poratkákra.</item>
+        <item>Ez a poliészter paplan könnyed minőségben készült és csodálatosan puha. Kellemes alvási kényelmet biztosít a lélegző és a nedvességet kiegyenlítő tulajdonságai által.</item>
+        <item>Bőrbarát és kellemesen puha: frottír gumis lepedő. Bőrbarát frottír gumis lepedő, ami a kellemesen puha pamut felületével különösen magas színvonalú alvási kényelmet biztosít.</item>
+        <item>Átlátszatlan függöny modern Jacquard mintázattal. Különleges függöny kiváló minőségű Jacquard szövet anyagból, trendi hatással. Az igényesen kidolgozott kivitelezése által mindkét oldalán egyforma mintázattal, csak a világos és a sötétszín váltja egymást.</item>
+        <item>Dekorációs párna világítótorony formában.</item>
+        <item>Ágyneműhuzat hangjegyekkel díszítve. Garnitúra hangjegyekkel, visszafogott árnyalatokban.</item>
+        <item>Vízálló matrac rátét. Ez a matrac-rátét megvédi a matracot a nedvességtől, és ezáltal növeli a matrac élettartamát. A négy sarokgumi biztosítja, hogy a matrac-rátét könnyen és biztonságosan rögzíthető legyen.
+            A hátlap lélegző poliuretán membránnal van ellátva, amely megbízhatóan távol tartja a nedvességet a matractól.</item>
+        <item>Dekoratív és praktikus: lábtörlő cica formában. Mosható lábtörlő cica formában, hátoldala vinyl bevonattal, ezáltal csúszásmentes. Minden méret kb. méret.</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>4</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>3.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/mikroszalas_fuggony</item>
+        <item>@drawable/agynemuhuzat_pingvin</item>
+        <item>@drawable/antiallergen_parna</item>
+        <item>@drawable/polieszter_paplan</item>
+        <item>@drawable/frottir_gumis_lepedo</item>
+        <item>@drawable/jacquard_fuggony</item>
+        <item>@drawable/dekoracios_parna_vilagitotoronyjpg</item>
+        <item>@drawable/agynemuhuzat_hangjegyekkel</item>
+        <item>@drawable/inkontinencia_matrac_ratetjpg</item>
+        <item>@drawable/labtorlo_cica_formaban</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>2000 Ft</item>
+        <item>5000 Ft</item>
+        <item>6000 Ft</item>
+        <item>7000 Ft</item>
+        <item>4000 Ft</item>
+        <item>5000 Ft</item>
+        <item>4000 Ft</item>
+        <item>5500 Ft</item>
+        <item>4500 Ft</item>
+        <item>3500 Ft</item>
+    </array>
+</resources>
